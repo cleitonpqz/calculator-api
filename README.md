@@ -23,7 +23,7 @@ npm start
 
 ## User SignUp
 
-`POST /api/auth/signup`
+`POST /api/v1/auth/signup`
 
 #### Request Body
 
@@ -56,7 +56,7 @@ npm start
 
 ### Signin
 
-`POST /api/auth/signin`
+`POST /api/v1/auth/signin`
 
 #### Request body
 
@@ -90,7 +90,7 @@ npm start
 
 ### Get Operations
 
-`GET /api/operations`
+`GET /api/v1/operations`
 
 ### Headers
 
@@ -121,7 +121,7 @@ Authorization: Bearer <accessToken>
 
 ### Get Records
 
-`GET /api/records`
+`GET /api/v1/records`
 
 ### Headers
 
@@ -176,7 +176,7 @@ Authorization: Bearer <accessToken>
 
 ### Create Record
 
-`POST /api/records`
+`POST /api/v1/records`
 
 ### Headers
 
@@ -217,7 +217,7 @@ Authorization: Bearer <accessToken>
 
 ### Delete Record
 
-`POST /api/records/:id`
+`POST /api/v1/records/:id`
 
 ### Headers
 
