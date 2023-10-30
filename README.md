@@ -3,6 +3,7 @@
 ## Requirements
 
 - Node.js 18
+- To run integration tests with [Testcontainers](https://testcontainers.com/getting-started/?_gl=1*1sxaxzo*_up*MQ..*_ga*MjQ1MDIyOTk3LjE2OTg2ODcxNDM.*_ga_22TYV8FBPD*MTY5ODY4NzE0MS4xLjAuMTY5ODY4NzE0MS4wLjAuMA..#supported-languages-and-prerequisites), you need a Docker-API compatible container runtime
 
 ## Common local setup
 
